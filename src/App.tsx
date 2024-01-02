@@ -1,9 +1,11 @@
-import './App.css';
+import "./App.css";
 
 function App() {
   return (
     <>
-      <h1 className='text-xl text-blue-950 font-semibold'>Node Shop</h1>
+      <h1 className="text-center text-xl font-semibold text-blue-950">
+        Node Shop
+      </h1>
     </>
   );
 }
